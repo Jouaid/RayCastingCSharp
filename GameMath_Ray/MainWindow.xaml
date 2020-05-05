@@ -1,0 +1,15 @@
+﻿<Window x:Class="GameMath_Ray.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GameMath_Ray"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="651.111" Width="1491.555">
+    <Grid>
+        <Canvas Name="Canvas2D" HorizontalAlignment="Left" Height="400" Margin="50,10,0,0" VerticalAlignment="Top" Width="1400" Background="Black" ClipToBounds="True" MouseMove="Canvas2D_MouseMove"/>
+        <Label Name="lel" Content="" HorizontalAlignment="Left" Margin="7,103,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="FovSlider" HorizontalAlignment="Left" Margin="108,424,0,0" VerticalAlignment="Top" Width="217" ValueChanged="FovSlider_ValueChanged" Maximum="360"/>
+        <Label Name="slierLabel" Content="360" HorizontalAlignment="Left" Margin="108,447,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

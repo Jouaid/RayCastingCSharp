@@ -1,0 +1,43 @@
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\bin\Debug\GameMath_Ray.exe.config
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\bin\Debug\GameMath_Ray.exe
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\bin\Debug\GameMath_Ray.pdb
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.csprojAssemblyReference.cache
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\MainWindow.g.cs
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\App.g.cs
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray_MarkupCompile.cache
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray_MarkupCompile.lref
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\MainWindow.baml
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.g.resources
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.Properties.Resources.resources
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.csproj.GenerateResource.cache
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.csproj.CoreCompileInputs.cache
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.exe
+D:\School\C# Homework\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.pdb
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\bin\Debug\GameMath_Ray.exe.config
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\bin\Debug\GameMath_Ray.exe
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\bin\Debug\GameMath_Ray.pdb
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.csprojAssemblyReference.cache
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\App.g.cs
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray_MarkupCompile.cache
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray_MarkupCompile.lref
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\MainWindow.baml
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.g.resources
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.Properties.Resources.resources
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.csproj.GenerateResource.cache
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.exe
+D:\Projects\C#\RayCasting\GameMath_Ray\GameMath_Ray\obj\Debug\GameMath_Ray.pdb
+D:\Projects\Intership\Raycasting\GameMath_Ray\bin\Debug\GameMath_Ray.exe.config
+D:\Projects\Intership\Raycasting\GameMath_Ray\bin\Debug\GameMath_Ray.exe
+D:\Projects\Intership\Raycasting\GameMath_Ray\bin\Debug\GameMath_Ray.pdb
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\GameMath_Ray.csprojAssemblyReference.cache
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\MainWindow.g.cs
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\App.g.cs
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\GameMath_Ray_MarkupCompile.cache
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\GameMath_Ray_MarkupCompile.lref
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\MainWindow.baml
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\GameMath_Ray.g.resources
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\GameMath_Ray.Properties.Resources.resources
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\GameMath_Ray.csproj.GenerateResource.cache
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\GameMath_Ray.exe
+D:\Projects\Intership\Raycasting\GameMath_Ray\obj\Debug\GameMath_Ray.pdb
